@@ -45,7 +45,8 @@
  <div align=center>
         <h1>Contribution Activity</h1>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abii225&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"><br><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=abii225&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://camo.githubusercontent.com/b33b59e0972278c40561346537f07d623d5aaaa4cd1ee04bd0bc34062053991a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d76616973686b697961726d696e616c30303126267468656d653d746f6b796f6e69676874" />
+<!--                 https://github-readme-stats.vercel.app/api?username=abii225&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" -->
         <br><br>         
         <!--
         <img src="https://github-readme-stats.vercel.app/api?username=pspiyush130&show_icons=true&theme=radical" alt="GitHub Most Used Languages" height="200" />
