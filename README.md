@@ -1,5 +1,5 @@
 <div align=center >
-        <img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_423_752/0/1651835064260?e=1694044800&v=beta&t=tHjuNaBoFVrX76nJl1d8wHxHZ6w0gDgRG7QJGS1O5YI"width="1000" height="300">
+        <img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_423_752/0/1651835064260?e=1694044800&v=beta&t=tHjuNaBoFVrX76nJl1d8wHxHZ6w0gDgRG7QJGS1O5YI"width="1000" height="500">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pspiyush130&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampar" /> </p>
 
