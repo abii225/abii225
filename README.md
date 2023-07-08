@@ -11,7 +11,7 @@
 
 
 <h3>About me</h1>
-- 🔭 I am a Full-Stack Web Developer and I love Programming and Music Production & traveling.<br>
+- 🔭 I am an Aspiring MERN Full-Stack Web Developer and I love Programming and Music Production & traveling.<br>
 - 🌱 Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br>
 - 👨‍💻 I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br>
 - 👯 I’m looking to collaborate on real products while working for an organisation.<br>
