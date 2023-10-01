@@ -11,13 +11,8 @@
 
 
 <h3>About me</h1>
-- 🔭 I am an Aspiring MERN Full-Stack Web Developer and I love Programming and Music Production & traveling.<br>
-- 🌱 Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br>
-- 👨‍💻 I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br>
-- 👯 I’m looking to collaborate on real products while working for an organisation.<br>
-- 💬 Ask me about Javascript , Frontend, or MERN Stack i would love to help.<br>
--⚡ Self and quick learner, self-motivated, and social.<br>
-- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/abhay-v-935738243/">LinkedIn</a> or can put a <a href="mailto:abhayv225@gmail.com">mail</a>
+🚀 As an aspiring MERN Full-Stack Web Developer, I blend a love for coding with a passion for music and travel. A team player and natural problem-solver, I'm eager to collaborate on real projects in a dynamic organization. Ask me anything about JavaScript, Frontend, or the MERN Stack—I'm here to help. A self-learner, I'm driven, motivated, and love connecting with others! ⚡✨
+📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/abhay-v-935738243/">LinkedIn</a> or can put a <a href="mailto:abhayv225@gmail.com">mail</a>
 <br>
 <br>
 
