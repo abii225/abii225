@@ -3,7 +3,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pspiyush130&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampar" /> </p>
 
-   <h3 style="font-family: 'Poppins', sans-serif">Hi
+   <h3 style="font-family: 'Poppins', sans-serif;`font-size`:20px">Hi
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33">
 there, I'm <span style="color: #447ED5">
 Abhay V</h3></span>
@@ -23,6 +23,7 @@ Abhay V</h3></span>
 <p>
     <strong>
         <!-- Here is the link of my personal portfolio **https://piyushfolio.netlify.app -->
+ Portfolio 🟦
     </strong>
 </p>
 
