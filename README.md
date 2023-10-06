@@ -28,8 +28,8 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
 
 <h3 align="left">GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abii225&layout=compact)
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=\&rank_icon=github)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abii225\&rank_icon=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abii225)
