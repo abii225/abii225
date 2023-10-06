@@ -10,7 +10,8 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Portfolio ](https://img.shields.io/badge/Portfilio-abii225.github.io-white?style=flat&logo=appveyor&logoColor=white&link=https://abii225.github.io/)](https://abii225.github.io/)
-[![LinkedIn ](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/abhay-v-935738243/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abii22503/)](https://www.linkedin.com/in/abhay-v-935738243/)
+[![LinkedIn ](https://img.shields.io/badge/LinkedIn-@abii22503-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhay-v-935738243/)](https://www.linkedin.com/in/abhay-v-935738243/)
+[![LinkedIn ](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/abhay-v-935738243/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abii22503/)]()
 [![Gmail ](https://img.shields.io/badge/Email-abhayv225@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:abhayv225@gmail.com)](mailto:abhayv225@gmail.com)
 
 &nbsp;
