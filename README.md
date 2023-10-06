@@ -16,13 +16,13 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertise in crafting high-performance web solutions. Proficient in Node.js, React.js, and MongoDB, I bring over 1000+ hours of coding proficiency. My focus lies in building robust backend architectures to enhance user experiences on the frontend. Committed, enthusiastic, and prepared for challenges, I'm eager to collaborate and transform concepts into reality using cutting-edge technologies. Let's elevate your web applications to new heights through innovation and precision.
  
-<h3 align="left">Tech Stack</h3>
+<h4 align="left"># 💻 Tech Stack:</h4>
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,java&theme=light)
 
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql)
 
-<h3 align="left">Dev Tools</h3>
+<h4 align="left">Dev Tools</h4>
 
 ![Dev Tools](https://skillicons.dev/icons?i=vscode,github)
 
