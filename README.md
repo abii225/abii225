@@ -14,8 +14,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail ](https://img.shields.io/badge/Email-abhayv225@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:abhayv225@gmail.com)](mailto:abhayv225@gmail.com)
 
 &nbsp;
-Hello there! 👋 I'm Arpit Jana, a Node.js Backend Developer passionate about crafting efficient and scalable web solutions. My tech stack includes Node.js, Express.js, and MongoDB. With over 1500 hours of coding experience, I'm dedicated to creating seamless backend architectures that empower outstanding user experiences on the front end. Although new to the professional field, I am enthusiastic, driven, and ready to take on exciting challenges. Let's collaborate and turn your ideas into reality with cutting-edge technologies that will elevate your web applications to new heights.
-
+Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertise in crafting high-performance web solutions. Proficient in Node.js, React.js, and MongoDB, I bring over 1000+ hours of coding proficiency. My focus lies in building robust backend architectures to enhance user experiences on the frontend. Committed, enthusiastic, and prepared for challenges, I'm eager to collaborate and transform concepts into reality using cutting-edge technologies. Let's elevate your web applications to new heights through innovation and precision.
  
 <h3 align="left">Tech Stack</h3>
 
