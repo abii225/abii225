@@ -26,8 +26,7 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
 
 ![Dev Tools](https://skillicons.dev/icons?i=vscode,github)
 
-<h3 align="left">GitHub Stats</h3>
-
+# 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abii225&layout=compact)
 
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abii225\&rank_icon=github)
