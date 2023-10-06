@@ -35,3 +35,6 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abii225)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abii225&theme=swift&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abii225&limit=5&theme=swift&combine_all_yearly_contributions=true)
