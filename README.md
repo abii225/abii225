@@ -27,6 +27,7 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
 ![Dev Tools](https://skillicons.dev/icons?i=vscode,github)
 
 <img src="https://i.postimg.cc/cLmDLHwM/2023-09-04-00-03-14.png" height="48" style="border-radius: 11px;"></img>
+<img src="https://i=vercel" height="48" style="border-radius: 11px;"></img>
 
 <h3 align="left">GitHub Stats</h3>
 
