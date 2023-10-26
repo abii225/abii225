@@ -24,7 +24,7 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
 
 <h3 align="left">Dev Tools</h3>
 
-![Dev Tools](https://skillicons.dev/icons?i=vscode,github)
+![Dev Tools](https://skillicons.dev/icons?i=vscode,github,postman,vercel,render)
 <br/>
 <h4 align="left">📊 GitHub Stats:</h4>
 
