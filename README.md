@@ -18,7 +18,7 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
  
 <h3 align="left">💻 Tech Stack:</h3>
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,java&theme=light)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,java&theme=light,firebase,socket.io)
 
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)
 
