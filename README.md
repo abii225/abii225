@@ -20,7 +20,8 @@ Hello 👋 I'm Abhay V, a meticulous MERN Full Stack Web Developer with expertis
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,firebase,socket.io)
 
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,firebase,socket.io,graphql)
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,graphql)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io)
 
 
 <h3 align="left">Dev Tools</h3>
